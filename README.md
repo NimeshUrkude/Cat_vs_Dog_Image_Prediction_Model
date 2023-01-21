@@ -1,2 +1,4 @@
-# catvdogai
-# Cat_vs_Dog_Image_Prediction_Model
+# Cat vs Dog Image Prediction Model
+
+This Repository is of Tensorflow Image Classification Model of Cat vs Dog, saved in JSON format.
+
